@@ -1,0 +1,22 @@
+Fitter Status : Successful - Thu Aug 27 15:33:39 2026
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : decoder
+Top-level Entity Name : decoder
+Family : Arria II GX
+Device : EP2AGX45CU17I3
+Timing Models : Final
+Logic utilization : 1 %
+    Combinational ALUTs : 374 / 36,100 ( 1 % )
+    Memory ALUTs : 0 / 18,050 ( 0 % )
+    Dedicated logic registers : 239 / 36,100 ( < 1 % )
+Total registers : 239
+Total pins : 6 / 176 ( 3 % )
+Total virtual pins : 0
+Total block memory bits : 34,816 / 2,939,904 ( 1 % )
+DSP block 18-bit elements : 0 / 232 ( 0 % )
+Total GXB Receiver Channel PCS : 0 / 4 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 4 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+Total DLLs : 0 / 2 ( 0 % )

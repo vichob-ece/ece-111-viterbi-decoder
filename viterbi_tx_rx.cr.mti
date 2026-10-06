@@ -1,0 +1,127 @@
+{C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module encoder_tb
+
+Top level modules:
+	encoder_tb
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/viterbi_tx_rx_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/viterbi_tx_rx_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module viterbi_tx_rx_tb
+
+Top level modules:
+	viterbi_tx_rx_tb
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/decoder.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/decoder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_1x1024.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_1x1024.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mem_disp
+
+Top level modules:
+	mem_disp
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc4.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc4
+
+Top level modules:
+	bmc4
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc6.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc6.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc6
+
+Top level modules:
+	bmc6
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder.sv} {1 {vlog -work work -sv -stats=none {C:\Users\Jaden\Documents\ECE 111\Final Project\assignment itself\starter code\encoder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module encoder
+
+Top level modules:
+	encoder
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module encoder2
+
+Top level modules:
+	encoder2
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/tbu.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/tbu.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tbu
+
+Top level modules:
+	tbu
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc1.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc1
+
+Top level modules:
+	bmc1
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_8x1024.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_8x1024.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc3
+
+Top level modules:
+	bmc3
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/ACS.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/ACS.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ACS
+
+Top level modules:
+	ACS
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc5.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc5.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc5
+
+Top level modules:
+	bmc5
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc7.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc7.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc7
+
+Top level modules:
+	bmc7
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/part 2/viterbi_tx_rx_2e3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/part 2/viterbi_tx_rx_2e3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module viterbi_tx_rx
+
+Top level modules:
+	viterbi_tx_rx
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc0.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc0.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc0
+
+Top level modules:
+	bmc0
+
+} {} {}} {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bmc2
+
+Top level modules:
+	bmc2
+
+} {} {}}

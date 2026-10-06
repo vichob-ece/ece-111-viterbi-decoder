@@ -1,0 +1,492 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jaden/Documents/ECE 111/HW 8
+vACS
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1742604381
+!i10b 1
+!s100 L9QXL9l;FMifDjlYdMeG`3
+I5;Ofi[zNZ0Xd_k`D2zDIZ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ACS_sv_unit
+S1
+Z3 dC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself
+w1742557911
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/ACS.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/ACS.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1742604381.000000
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/ACS.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/ACS.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@a@c@s
+vACS_testbench
+R0
+!s110 1742546363
+!i10b 1
+!s100 M8?E69nZ2lgHl>4NVek;b2
+IXe6=cBiHcR8E1]an<fZbL3
+R2
+!s105 acs_tb_sv_unit
+S1
+R3
+w1742527051
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/acs_tb.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/acs_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1742546363.000000
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/acs_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/acs_tb.sv|
+!i113 1
+R6
+R7
+n@a@c@s_testbench
+vbmc
+R0
+!s110 1742520991
+!i10b 1
+!s100 2ez_ZbT:DBASemOPKUUj53
+IJ>Z1Dj0IeDM48K6:F_V[:1
+R2
+Z8 !s105 bmc7_sv_unit
+S1
+R3
+w1742520169
+Z9 8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc7.sv
+Z10 FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc7.sv
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1742520991.000000
+Z11 !s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc7.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc7.sv|
+!i113 1
+R6
+R7
+vbmc0
+R0
+Z13 !s110 1742604382
+!i10b 1
+!s100 o=D4n6adY9H7@IE_F;2853
+Ig`gIWz[I[a`1^2iVfOcXf1
+R2
+!s105 bmc0_sv_unit
+S1
+R3
+w1742521046
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc0.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc0.sv
+L0 5
+R4
+r1
+!s85 0
+31
+Z14 !s108 1742604382.000000
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc0.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc0.sv|
+!i113 1
+R6
+R7
+vbmc1
+R0
+R13
+!i10b 1
+!s100 ]CIWfPc@=P24mGfh^0V>W1
+I2k:za4GMNT>VRIB7_bbZ^1
+R2
+!s105 bmc1_sv_unit
+S1
+R3
+w1742521039
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc1.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc1.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc1.sv|
+!i113 1
+R6
+R7
+vbmc2
+R0
+R13
+!i10b 1
+!s100 7F:70CQeiW?bBFPh=ZX<33
+Id3m:Fe;RfWKC_[Cg:JTLc2
+R2
+!s105 bmc2_sv_unit
+S1
+R3
+w1742521049
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc2.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc2.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc2.sv|
+!i113 1
+R6
+R7
+vbmc3
+R0
+R13
+!i10b 1
+!s100 I?eaRl3BBizhDaEcR5[Lz2
+IRWmM2So0U]142cUWoVOmT1
+R2
+!s105 bmc3_sv_unit
+S1
+R3
+w1742521052
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc3.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc3.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc3.sv|
+!i113 1
+R6
+R7
+vbmc4
+R0
+R13
+!i10b 1
+!s100 HIXbR42K`T;PkLAmcfRgd3
+I`DA9eYfUB?FzVbK4o2?a^1
+R2
+!s105 bmc4_sv_unit
+S1
+R3
+w1742521054
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc4.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc4.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc4.sv|
+!i113 1
+R6
+R7
+vbmc5
+R0
+R13
+!i10b 1
+!s100 ?BDD[i=kc]Q:7m?>IQAcP2
+Ij^Z3C6n>j78`:M[0WDE3X1
+R2
+!s105 bmc5_sv_unit
+S1
+R3
+w1742521056
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc5.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc5.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc5.sv|
+!i113 1
+R6
+R7
+vbmc6
+R0
+Z15 !s110 1742604383
+!i10b 1
+!s100 k0ObIQLCl0ZO>EYeSfj7;0
+I@zoEn5obIHkYNM3HD=omJ0
+R2
+!s105 bmc6_sv_unit
+S1
+R3
+w1742521060
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc6.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc6.sv
+L0 5
+R4
+r1
+!s85 0
+31
+Z16 !s108 1742604383.000000
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc6.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/bmc6.sv|
+!i113 1
+R6
+R7
+vbmc7
+R0
+R15
+!i10b 1
+!s100 MCCIUQkzLX3MY4TcUmODc0
+Ifjhe[8zzf9UzD]Ma]<7j42
+R2
+R8
+S1
+R3
+w1742521063
+R9
+R10
+L0 5
+R4
+r1
+!s85 0
+31
+R16
+R11
+R12
+!i113 1
+R6
+R7
+vdecoder
+R0
+R15
+!i10b 1
+!s100 YgOQ@`2:<cBb6e=Do9?@X1
+IP]Vm4ke5>]jg``gV<EbGW3
+R2
+!s105 decoder_sv_unit
+S1
+R3
+w1742555756
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/decoder.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/decoder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/decoder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/decoder.sv|
+!i113 1
+R6
+R7
+vencoder
+R0
+R15
+!i10b 1
+!s100 J98gCVYjY3o=>o9<2lEVR1
+IbaKKmCEDl[]54;<4cOLCk0
+R2
+!s105 encoder_sv_unit
+S1
+R3
+w1742451362
+8C:\Users\Jaden\Documents\ECE 111\Final Project\assignment itself\starter code\encoder.sv
+FC:\Users\Jaden\Documents\ECE 111\Final Project\assignment itself\starter code\encoder.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:\Users\Jaden\Documents\ECE 111\Final Project\assignment itself\starter code\encoder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jaden\Documents\ECE 111\Final Project\assignment itself\starter code\encoder.sv|
+!i113 1
+R6
+R7
+vencoder2
+R0
+Z17 !s110 1742604384
+!i10b 1
+!s100 B@h0bZWVZ5Y^JnH`<C=XV1
+IdRk`nEm@X;3W6LL8o?Gn;2
+R2
+!s105 encoder2_sv_unit
+S1
+R3
+w1742433419
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder2.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder2.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z18 !s108 1742604384.000000
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder2.sv|
+!i113 1
+R6
+R7
+vencoder_tb
+R0
+R15
+!i10b 1
+!s100 z3iNR[3^>7>UJ]K`3C7MG3
+I3AYNNkaCgW3njMf7iPfFM3
+R2
+!s105 encoder_tb_sv_unit
+S1
+R3
+w1742433418
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder_tb.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/encoder_tb.sv|
+!i113 1
+R6
+R7
+vmem
+R0
+R15
+!i10b 1
+!s100 kkYVz6YGl9>Wdl__bRH9m1
+Ib0J=@NVkRTNY0iFP>eSmm2
+R2
+!s105 mem_8x1024_sv_unit
+S1
+R3
+w1742524593
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_8x1024.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_8x1024.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_8x1024.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_8x1024.sv|
+!i113 1
+R6
+R7
+vmem_disp
+R0
+R17
+!i10b 1
+!s100 oei90^PDOBjUlMec95g381
+I9aIL?zQnE9DZOaY92beLJ0
+R2
+!s105 mem_1x1024_sv_unit
+S1
+R3
+w1742524612
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_1x1024.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_1x1024.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_1x1024.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/mem_1x1024.sv|
+!i113 1
+R6
+R7
+vtbu
+R0
+R15
+!i10b 1
+!s100 EcOF<@bhE3:4Y4hVP`dlc2
+ILII]oQR?]=`DOhXR^>g?B2
+R2
+!s105 tbu_sv_unit
+S1
+R3
+w1742594012
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/tbu.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/tbu.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/tbu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/tbu.sv|
+!i113 1
+R6
+R7
+vviterbi_tx_rx
+R0
+!s110 1742613203
+!i10b 1
+!s100 nj54mHSU7[F>zjaOE@ZO12
+IoV?me6G@O<>VOJfn<BbKG2
+R2
+!s105 viterbi_tx_rx_2e3_sv_unit
+S1
+R3
+w1742613172
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/part 2/viterbi_tx_rx_2e3.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/part 2/viterbi_tx_rx_2e3.sv
+L0 6
+R4
+r1
+!s85 0
+31
+!s108 1742613203.000000
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/part 2/viterbi_tx_rx_2e3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/part 2/viterbi_tx_rx_2e3.sv|
+!i113 1
+R6
+R7
+vviterbi_tx_rx_tb
+R0
+R1
+!i10b 1
+!s100 M?BYZW?SFanTTcS[Iz4d70
+I@7fIPd=Zh0F^4E60[enPO2
+R2
+!s105 viterbi_tx_rx_tb_sv_unit
+S1
+R3
+w1742593885
+8C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/viterbi_tx_rx_tb.sv
+FC:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/viterbi_tx_rx_tb.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/viterbi_tx_rx_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jaden/Documents/ECE 111/Final Project/assignment itself/starter code/viterbi_tx_rx_tb.sv|
+!i113 1
+R6
+R7

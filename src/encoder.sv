@@ -1,4 +1,3 @@
-// figure out what this encoder does -- differs a bit from Homework 7
 module encoder                    // use this one
 (  input             clk,
    input             rst,
